@@ -1,0 +1,293 @@
+{
+    "96": {
+        "p1":"Perfect Numberes",
+        "p2":"Divisibility by 11",
+        "p3":"Pattern Generator",
+        "p4":"Roman Numerals",
+        "p5":"Max Distance"
+    },
+    "97": {
+        "p1":"Sentences",
+        "p2":"Nasty Numbers",
+        "p3":"Double Knockout Competition",
+        "p4":"Dynamic Dictionary Coding",
+        "p5":"Long Division"
+    },
+    "98": {
+        "p1":"Censor",
+        "p2":"Cross Number",
+        "p3":"Mars Rover",
+        "p4":"Lottery",
+        "p5":"Mountain Passage"
+    },
+    "99": {
+        "p1":"Card Game",
+        "p2":"Year 2000",
+        "p3":"Divided Fractals",
+        "p4":"A Knightly Pursuit",
+        "p5":"Letter Arithmetic"
+    },
+    "00": {
+        "j1":"Calendar",
+        "j2":"9966",
+        "j3s1":"Slot Machines",
+        "j4s2":"Babbling Brooks",
+        "j5s3":"Surfing",
+        "s4":"Golf",
+        "s5":"Sheep and Coyotes"        
+    },
+    "01": {
+        "j1":"Dressing Up",
+        "j2":"Mod Inverse",
+        "j3s1":"Keeping Score",
+        "j4s2":"Spirals",
+        "j5s3":"Strategic Bombing",
+        "s4":"Cookies",
+        "s5":"Post's Correspondence"
+    },
+    "02": {
+        "j1":"0123456789",
+        "j2":"AmeriCanadian",
+        "j3s1":"Student Council's Breakfast",
+        "j4s2":"Fraction Action",
+        "j5s3":"Blindfold",
+        "s4":"Bridge Crossing",
+        "s5":"Bouncing Ball"
+    },
+    "03": {
+        "j1":"Trident",
+        "j2":"Perfect Picture",
+        "j3s1":"Snakes and Ladders",
+        "j4s2":"Poetry",
+        "j5s3":"Floor Plan",
+        "s4":"Substrings",
+        "s5":"Trucking"
+    },
+    "04": {
+        "j1":"Squares",
+        "j2":"Terms of Office",
+        "j3":"Smile with Similes",
+        "j4":"Simple Encryption",
+        "j5":"Fractals",
+        "s1":"Fix",
+        "s2":"Top Yodeller",
+        "s3":"Spreadsheet",
+        "s4":"Space Turtle",
+        "s5":"Super Plumber"
+    },
+    "05": {
+        "j1":"Cell Sell",
+        "j2":"RSA Numbers",
+        "j3":"Returning Home",
+        "j4":"Cross Spiral",
+        "j5":"Bananas",
+        "s1":"Snow Calls",
+        "s2":"Mouse Move",
+        "s3":"Quantum Operations",
+        "s4":"Pyramid Message Scheme",
+        "s5":"Pinball Ranking"
+    },
+    "06": {
+        "j1":"Canadian Calorie Counting",
+        "j2":"Roll the Dice",
+        "j3":"Cell-Phone Messaging",
+        "j4":"Tough Being a Teen",
+        "j5":"CCC Othello",
+        "s1":"Maternity",
+        "s2":"Cipher Texts",
+        "s3":"Tin Can Telephone",
+        "s4":"Groups",
+        "s5":"Origin of Life"
+    },
+    "07": {
+        "j1":"Who is in the middle?",
+        "j2":"I Speak TXTMSG",
+        "j3":"Deal or No Deal Calculator",
+        "j4":"Anagram Checker",
+        "j5":"Keep on Truckin'",
+        "s1":"Federal Voting Age",
+        "s2":"Boxes",
+        "s3":"Friends",
+        "s4":"Waterpark",
+        "s5":"Bowling for Numbers"
+    },
+    "08": {
+        "j1":"Body Mass Index",
+        "j2":"Do the Shuffle",
+        "j3":"GPS Text Entry",
+        "j4":"From Prefix to Postfix",
+        "j5":"Nukit",
+        "s1":"It's Cold Here",
+        "s2":"Pennies in the Ring",
+        "s3":"Maze",
+        "s4":"Twenty-four",
+        "s5":"Nukit"
+    },
+    "09": {
+        "j1":"ISBN",
+        "j2":"Old Fishin' Hole",
+        "j3":"Good Times",
+        "j4":"Signage",
+        "j5s3":"Degrees of Separation",
+        "s1":"Cool Numbers",
+        "s2":"The Lights Going On and Off",        
+        "s4":"Ship and Shop",
+        "s5":"Wireless"
+    },
+    "10": {
+        "j1":"What is n, Daddy?",
+        "j2":"Up and Down",
+        "j3":"Punchy",
+        "j4":"Global Warming",
+        "j5":"Knight Hop",
+        "s1":"Computer Purchase",
+        "s2":"Huffman Encoding",
+        "s3":"Firehose",
+        "s4":"Animal Farm",
+        "s5":"Nutrient Tree"
+    },
+    "11": {
+        "j1":"Which Alien?",
+        "j2":"Who Has Seen the Wind",
+        "j3":"Sumac Sequences",
+        "j4":"Boring Business",
+        "j5":"Unfriend",
+        "s1":"English or French?",
+        "s2":"Multiple Choice",
+        "s3":"Alice Through the Looking Glass",
+        "s4":"Blood Distribution",
+        "s5":"Switch"
+    },
+    "12": {
+        "j1":"Speed Fines Are Not Fine!",        
+        "j2":"Sounds Fishy!",
+        "j3":"Icon Scaling",
+        "j4":"Big Bang Secrets",
+        "j5":"A Coin Game",
+        "s1":"Don't Pass Me the Ball!",
+        "s2":"Aromatic Numbers",
+        "s3":"Absolutely Acidic",
+        "s4":"A Coin Game",
+        "s5":"Mouse Journey"
+    },
+    "13": {
+        "j1":"Next in Line",
+        "j2":"Rotating Letters",
+        "j3s1":"From 1987 to 2013",
+        "j4":"Time on Task",
+        "j5s3":"Chances of Winning",
+        "s2":"Bridge Transport",
+        "s4":"Who is Taller?",
+        "s5":"Factor Solitaire"
+    },
+    "14": {
+        "j1":"Triangle Times",
+        "j2":"Vote Count",
+        "j3":"Double Dice",
+        "j4s1":"Party Invitation",
+        "j5s2":"Assigning Partners",
+        "s3":"The Geneva Confection",
+        "s4":"Tinted Glass Window",
+        "s5":"Lazy Fox"
+    },
+    "15": {
+        "j1":"Special Day",        
+        "j2":"Happy or Sad",
+        "j3":"Rovarspraket",
+        "j4":"Wait Time",
+        "j5":"Pi-Day",
+        "s1":"Zero That Out",
+        "s2":"Jerseys",
+        "s3":"Gates",
+        "s4":"Convex Hull",
+        "s5":"Greedy For Pies"
+    },
+    "16": {
+        "j1":"Tournament Selection",        
+        "j2":"Magic Squares",
+        "j3":"Hidden Palindrome",
+        "j4":"Arrival Time",
+        "j5s2":"Tandem Bicycle",
+        "s1":"Ragaman",        
+        "s3":"Phonomenal Reviews",
+        "s4":"Combining Riceballs",
+        "s5":"Circle of Life"
+    },
+    "17": {
+        "j1":"Quadrant Selection",
+        "j2":"Shifty Sum",
+        "j3":"Exactly Electrical",
+        "j4":"Favourite Times",
+        "j5s3":"Nailed It!",
+        "s1":"Sum Game",
+        "s2":"High Tide, Low Tide",
+        "s4":"Minimum Cost Flow",
+        "s5":"RMT"
+    },
+    "18": {
+        "j1":"Telemarketer or not?",        
+        "j2":"Occupy Parking",
+        "j3":"Are We There Yet?",
+        "j4s2":"Sunflowers",
+        "j5":"Choose Your Own Path",
+        "s1":"Voronoi Villages",        
+        "s3":"RoboThieves",
+        "s4":"Balanced Trees",
+        "s5":"Maximum Strategic Savings"
+    },
+    "19": {
+        "j1":"Winning Score",        
+        "j2":"Time to Decompress",
+        "j3":"Cold Compress",
+        "j4s1":"Flipper",
+        "j5":"Rule of Three",        
+        "s2":"Pretty Average Primes",
+        "s3":"Arithmetic Square",
+        "s4":"Tourism",
+        "s5":"Triangle: The Data Structure"
+    },
+    "20": {
+        "j1":"Dog Treats",        
+        "j2":"Epidemiology",
+        "j3":"Art",
+        "j4":"Cyclic Shifts",
+        "j5s2":"Escape Room",
+        "s1":"Surmising a Sprinter's Speed",        
+        "s3":"Searching for Strings",
+        "s4":"Swapping Seats",
+        "s5":"Josh's Double Bacon Deluxe"
+    },
+    "21": {
+        "j1":"Boiling Water",        
+        "j2":"Silent Auction",
+        "j3":"Secret Instructions",
+        "j4":"Arranging Books",
+        "j5s2":"Modern Art",
+        "s1":"Crazy Fencing",        
+        "s3":"Lunch Concert",
+        "s4":"Daily Commute",
+        "s5":"Math Homework"
+    },
+    "22": {
+        "j1":"Cupcake Party",        
+        "j2":"Fergusonball Ratings",
+        "j3":"Harp Tuning",
+        "j4s2":"Good Groups",
+        "j5":"Square Pool",
+        "s1":"Good Fours and Good Fives",        
+        "s3":"Good Samples",
+        "s4":"Good Triplets",
+        "s5":"Good Influencers"
+    },
+    "23": {
+        "j1":"Deliv-e-droid",        
+        "j2":"Chili Peppers",
+        "j3":"Special Event",
+        "j4s1":"Trianglane",
+        "j5":"CCC Word Hunt",        
+        "s2":"Symmetric Mountains",
+        "s3":"Palindromic Poster",
+        "s4":"Minimum Cost Roads",
+        "s5":"The Filter"
+    }
+}
